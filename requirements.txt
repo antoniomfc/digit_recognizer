@@ -1,0 +1,11 @@
+
+# This file lists the dependencies for a Python 10 environment.
+# Note: The versions specified are based on compatibility and latest releases as of my last update.
+
+tensorflow==2.16.1  # Latest version compatible with Python 10 as of my last update
+matplotlib==3.8.4   # Latest version compatible with Python 10 as of my last update
+jupyter    
+numpy==1.26.4    # Latest version compatible with Python 10 as of my last update
+scikit-learn
+pandas
+seaborn
